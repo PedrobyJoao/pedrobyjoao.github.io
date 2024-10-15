@@ -1,4 +1,4 @@
-#### JP, the ape
+### JP, the ape
 
 My blogs with my random thoughts.
 
@@ -11,7 +11,12 @@ I don't know.
 It's already 10p.m., I just want to finish the initial setup of my blog. So my initial answer for this is: I'm just an ape,
 of course I don't know what are thoughts.
 
-#### Theme
+### TODOs
+
+- [ ] Psychedelic/Apes background alternative
+- [ ] Deployment and hosting
+
+### Theme
 
 Theme: https://github.com/tomfran/typo
 
