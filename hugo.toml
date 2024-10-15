@@ -1,4 +1,4 @@
-baseURL = 'https://jp.the.ape/'
+baseURL = 'https://jp.ape/'
 languageCode = 'en-us'
 title = 'JP, an ape'
 theme = 'typo'
