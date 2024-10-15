@@ -13,9 +13,10 @@ of course I don't know what are thoughts.
 
 ### TODOs
 
+- [ ] Deployment and hosting with github
 - [ ] Psychedelic/Apes background alternative
 - [ ] funny 404 (ape)
-- [ ] Deployment and hosting
+- [ ] self hosted web server and custom domain
 - [ ] allow comments (limmited to 'n') (that is for the far future btw)
 
 ### Theme
