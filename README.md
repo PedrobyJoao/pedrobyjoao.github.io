@@ -14,7 +14,9 @@ of course I don't know what are thoughts.
 ### TODOs
 
 - [ ] Psychedelic/Apes background alternative
+- [ ] funny 404 (ape)
 - [ ] Deployment and hosting
+- [ ] allow comments (limmited to 'n') (that is for the far future btw)
 
 ### Theme
 

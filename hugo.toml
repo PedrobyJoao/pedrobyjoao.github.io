@@ -1,6 +1,6 @@
 baseURL = 'https://jp.the.ape/'
 languageCode = 'en-us'
-title = 'JP, the ape'
+title = 'JP, an ape'
 theme = 'typo'
 
 [taxonomies]
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "A Reality Blog"
 
 # Appearance settings
 theme = 'auto'
@@ -16,10 +16,21 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = "Hi, conscious being"
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+What am I? What do I live for? Am I still here for love? For pleasure? For fun?
+
+Bah.. who knows. This human subjectivity is too complex for me. I'm just an ape
+that sometimes tries to understand reality without success.
+
+In this blog, I'll express my thoughts about reality, computer science and art.
+
+How do I feel while creating this blog? As Neal Cassady would answer: "YES YES YES!"
+
+Currently reading: 
+- "On The Road", Jack Kerouac.
+- "Berserk", Kentaro Miura.
+- "Meditations", Marcus Aurelius.
 """
 
 # Collection to display on home
@@ -40,12 +51,8 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/user/"
 
 [[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
-
-[[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/PedrobyJoao"
 
 # Main menu pages
 [[params.menu]]
@@ -55,6 +62,14 @@ url = "/"
 [[params.menu]]
 name = "posts"
 url = "/posts"
+
+[[params.menu]]
+name = "books"
+url = "/books"
+
+[[params.menu]]
+name = "poems"
+url = "/poems"
 
 [[params.menu]]
 name = "about"
