@@ -54,31 +54,26 @@ theme = 'typo'
   name = "github"
   url = "https://github.com/PedrobyJoao"
 
-# Main menu pages
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
+# Menu pages
+[[params.menu]]
+name = "home"
+url = "/"
 
-[[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 2
+[[params.menu]]
+name = "Posts"
+url = "/posts"
 
-[[menu.main]]
-  name = "Books"
-  url = "/books/"
-  weight = 3
+[[params.menu]]
+name = "Books"
+url = "/books"
 
-[[menu.main]]
-  name = "Poems"
-  url = "/poems/"
-  weight = 4
+[[params.menu]]
+name = "Poems"
+url = "/poems"
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 5
+[[params.menu]]
+name = "About"
+url = "/about"
 
 # Syntax highlight on code blocks
 [markup.highlight]

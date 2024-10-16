@@ -14,12 +14,13 @@ of course I don't know what are thoughts.
 ### TODOs
 
 - [ ] Deployment and hosting with github
+- [ ] Custom domain
 - [ ] funny 404 (ape)
 
 ##### Secondary
 
 - [ ] Psychedelic/Apes background alternative
-- [ ] self hosted web server and custom domain
+- [ ] self hosted web server
 - [ ] allow comments (limmited to 'n') (that is for the far future btw)
 
 ### Theme
