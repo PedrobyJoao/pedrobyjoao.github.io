@@ -1,4 +1,4 @@
-baseURL = 'https://pedrobyjoao.github.io/my-blog/'
+baseURL = 'https://pedrobyjoao.github.io'
 languageCode = 'en-us'
 title = 'JP, an ape'
 theme = 'typo'
@@ -39,7 +39,7 @@ theme = 'typo'
 
   # Lists parameters
   paginationSize = 100
-  listSummaries = true
+  listSummaries = false
   listDateFormat = '2 Jan 2006'
 
   # Breadcrumbs
