@@ -56,24 +56,24 @@ theme = 'typo'
 
 # Menu pages
 [[params.menu]]
-name = "home"
-url = "/"
+    name = "home"
+    url = "/"
 
 [[params.menu]]
-name = "Posts"
-url = "/posts"
+    name = "Posts"
+    url = "/posts"
 
 [[params.menu]]
-name = "Books"
-url = "/books"
+    name = "Books"
+    url = "/books"
 
 [[params.menu]]
-name = "Poems"
-url = "/poems"
+    name = "Poems"
+    url = "/poems"
 
 [[params.menu]]
-name = "About"
-url = "/about"
+    name = "About"
+    url = "/about"
 
 # Syntax highlight on code blocks
 [markup.highlight]
