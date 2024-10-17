@@ -32,7 +32,7 @@ So `F G A#` played in a certain rhythm has this mathematical relation of frequen
 by our brains.
 
 Therefore, when we transpose our hand to another part of the fretboard keeping the same fingers position and playing
-with the same rhythm, the _mathematical signature is still the same!_. The only difference is the frequencies being used.
+with the same rhythm, the _mathematical signature is still the same!_ The only difference is the frequencies being used.
 
 > Example:
 >
@@ -40,7 +40,7 @@ with the same rhythm, the _mathematical signature is still the same!_. The only 
 > For different `x`s, the output will be different. But still, the relation between all outputs
 > are dictated by this base `3<n> + 4`.
 >
-> IMPORTANT: I'm not saying the mathematical relations of music are linear functions.
+> Note: I'm not saying the mathematical relations of music are linear functions.
 
 So let's investigate this mathematical underlying concepts of music!!!
 
