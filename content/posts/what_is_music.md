@@ -11,6 +11,9 @@ If you transpose the same rhythm with random notes, it won't sound like _Do I Wa
 However, keeping the same fingers position on the fretboard, we can move to whatever part of the fretboard,
 it'll sound like _Do I Wanna Know_ even though it may sound strange in some cases, it's still recognizable.
 
+> Try it for yourself. Try to play, keeping the same rhythm, with `D E G`
+> You see? Yes, yes, yes!
+
 Sound is just frequency.
 
 And music is just a sequence and/or a group of different frequencies with arbitrary intervals between them
