@@ -6,11 +6,9 @@ draft = true
 
 Youtube videos worth watching:
 
-- https://www.youtube.com/watch?v=_VvKeiwddPI
 - https://www.youtube.com/watch?v=rgaTLrZGlk0
-- https://www.youtube.com/watch?v=3tuQrKWLCKc
+- https://www.youtube.com/watch?v=_VvKeiwddPI
 - https://www.youtube.com/watch?v=VwSBtuWkhiA
-- https://www.youtube.com/watch?v=Coy_r8Tza9E
 
 Also see:
 
