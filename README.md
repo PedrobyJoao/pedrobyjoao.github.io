@@ -1,3 +1,5 @@
+https://pedrobyjoao.github.io/
+
 ### JP, the ape
 
 My blogs with my random thoughts.
@@ -13,14 +15,10 @@ of course I don't know what are thoughts.
 
 ### TODOs
 
-- [ ] Deployment and hosting with github
-- [ ] Custom domain
 - [ ] funny 404 (ape)
-
-##### Secondary
-
 - [ ] Psychedelic/Apes background alternative
 - [ ] self hosted web server
+- [ ] custom domain
 - [ ] allow comments (limmited to 'n') (that is for the far future btw)
 
 ### Theme
