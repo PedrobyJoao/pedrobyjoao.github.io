@@ -1,7 +1,7 @@
 +++
 title = 'What is really music?'
 date = 2024-10-17T13:56:48-03:00
-draft = false
+draft = true
 +++
 
 **Note**: the following is pure logical deduction. I didn't read any articles about the relation of math and music.
