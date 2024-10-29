@@ -48,7 +48,7 @@ theme = 'typo'
 # Social icons
 [[params.social]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/user/"
+  url = "https://pedrobyjoao.github.io/about"
 
 [[params.social]]
   name = "github"
