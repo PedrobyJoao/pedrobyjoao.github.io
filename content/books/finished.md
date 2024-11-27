@@ -2,6 +2,7 @@
 title = 'Finished'
 date = 2024-10-14T22:35:47-03:00
 draft = false
+weight = 1
 +++
 
 Not sure how to categorize so don't mind the category sections pls:
@@ -21,9 +22,11 @@ Not sure how to categorize so don't mind the category sections pls:
 - "Demian", Hermann Hesse
 - "Knulp", Hermann Hesse
 - "Notes from the Underground", Fyodor Dostoevsky
+- "The Metamorphosis", Franz Kafka
 
-### Philosophy, Reality Wonders
+### Philosophy and similar
 
+- "The Symposium", Plato
 - "A simples beleza do inesperado", Marcelo Gleiser
 - "The Stranger", Albert Camus
 - "The myth of Sisyphus", Albert Camus
@@ -41,18 +44,18 @@ Not sure how to categorize so don't mind the category sections pls:
 
 ### Self-Help (is this the correct way of phrasing?)
 
+- "Deep Work", Cal Newport
 - "Power of Habits", Charles Duhigg
 - "The Subtle Art of Not Giving a Fuck", Mark Manson
 - "The Power of Now", Eckhart Tolle
-- "Deep Work", Cal Newport
-- "Can't Hurt Me", David Goggins
 - "Atomic Habits", James Clear
 
 ### Non-fiction
 
-- "Surely you're Joking, Mr Feynman", Richard P. Feynman
-- "A Long Way Gone", Ishmael Beah
 - "On the Road", Jack Kerouac
+- "Surely you're Joking, Mr Feynman", Richard P. Feynman
+- "Can't Hurt Me", David Goggins
+- "A Long Way Gone", Ishmael Beah
 
 ## Notes
 
