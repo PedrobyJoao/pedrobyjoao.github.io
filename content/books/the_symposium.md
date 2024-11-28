@@ -4,14 +4,16 @@ date = 2024-11-28T15:53:36-03:00
 draft = false
 +++
 
-![Socrates and Diotima](/socrates_diotima.jpg)
-_Socrates Learning from Diotima, Franc Kavčič, 1810._
+![The Symposium](/the_symposium.jpg)
+_Alcibiades and revelers entering in Agathon's house, Anselm Feuerbach from c. 1869 and 1873/74_
 
 # Introduction
 
 The Symposium is essentially a conversation between "friends" from the upper class of Athens.
 This symposium consists of making eulogies about love, or as some participants would say,
 praising love as a god more specifically.
+
+The setting of the Symposium is Agathon's house.
 
 An important cultural context about the symposium and Athenian society at the time:
 these gatherings were exclusively for upper-class men, and homosexuality was not only acceptable
@@ -111,6 +113,9 @@ And later he also talks about beauty - if love pursues beauty, and why love is d
 Then he starts to talk about a woman called Diotima who was the one that taught him about the ways of love,
 and he starts to transcribe the dialogue that he had with her. It seems the historical existence of this person
 is not something that everyone agrees on - some people claim that Diotima was a persona created by Socrates.
+
+![Socrates and Diotima](/socrates_diotima.jpg)
+_Socrates Learning from Diotima, Franc Kavčič, 1810._
 
 Anyway, Diotima says that love is not actually a god as all the others were trying to bring before - gods are all
 attractive and they do not desire anything because they already have, they are already perfect,
