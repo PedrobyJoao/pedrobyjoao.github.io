@@ -35,6 +35,7 @@ You are processing voice-to-text transcriptions for blog posts. Follow these str
 
 ## Output Requirements
 
+- Keep the number one of characters in one line maximum to 100
 - Provide the corrected text in Markdown format
 - Preserve any existing Markdown formatting from the input
 - Format the text according to the voice commands below
