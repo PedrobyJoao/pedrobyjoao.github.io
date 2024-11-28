@@ -28,19 +28,19 @@ I won't talk about all the eulogies but just about the ones that most attracted 
 There isn't much that attracted me in the Phaedrus speech besides the whole idea that he presented,
 reminded me of the concept of partnership, and that's what I understood about the Phaedrus speech.
 
-He goes by saying a lovers relationship brings one greater benefit that usually family and friends cannot
+He goes by saying a lover's relationship brings one greater benefit that usually family and friends cannot
 bring with the same effectiveness, and that's the difference between the relationships for him.
 
 And what is this benefit? He basically says that (a very compressed summary), when you are
 in the presence of your lover, you get more courageous and you also get more afraid of committing
 moral mistakes, because you would be ashamed about what your lover would think about your shameful acts.
 
-And regarding the courage, one of the main things that Phaedrus talked about and gave some examples
-from the Homer Odyssey is that lovers are prepared to die for each other, and for him that's just
+And regarding courage, one of the main things that Phaedrus talked about and gave some examples
+from Homer's Odyssey is that lovers are prepared to die for each other, and for him that's just
 very important. That's like one of the big pieces of the benefits. And he even claims that a
-battalion on a battlefield made of only with lovers would be one of the strongest battalions in the world,
+battalion on a battlefield made only of lovers would be one of the strongest battalions in the world,
 because all the soldiers there would be with full courage, they would die with each other. And they also
-would feel shame to drop out their weapons in front on of their loved ones, so they wouldn't do that.
+would feel shame to drop their weapons in front of their loved ones, so they wouldn't do that.
 
 > "For what lover would not choose rather to be seen by all mankind
 > than by his beloved, either when abandoning his post or throwing away his arms? He would be
@@ -49,7 +49,7 @@ would feel shame to drop out their weapons in front on of their loved ones, so t
 > bravest, at such a time; Eros would inspire him. That courage which, as Homer says, the god
 > breathes into the souls of some heroes, Eros of his own nature infuses into the lover."
 
-And that's, for me, the courage, the will to die for each other, the avoidance of shameful acts...
+And that's it for me - the courage, the will to die for each other, the avoidance of shameful acts...
 
 It is all about a **partnership that lovers built**. And that's it.
 
@@ -70,15 +70,15 @@ He claims that these people, which were the human race in the beginning, were so
 trying to, at least a part of them, have physical conflicts with the gods, with Zeus, and they
 were very strong. Zeus didn't like that and to solve this problem, because they were too strong and Zeus
 didn't want to erase the human race from the earth, so to keep the human race alive and to increase
-the number of followers of gods, he splitted the human beings in two.
+the number of followers of gods, he split the human beings in two.
 
-These new human beings after splitting, now each one of them had, as we have now, two legs, two arms, one face,
+These new human beings after splitting now each had, as we have now, two legs, two arms, one face,
 one genital. It is like what we know about a person today.
 
 And where is love on his eulogy?
 
-For Aristophanes, love is about humans looking for completing their other half, their other half which
-was lost when we all got splitted in two.
+For Aristophanes, love is about humans looking to complete their other half, their other half which
+was lost when we all got split in two.
 
 > 'Do you desire to be wholly one; always day and night to be in
 > one another’s company? For if this is what you desire, I am ready to melt you into one and let
@@ -103,7 +103,7 @@ Unfortunately, I won't have the time to this date to really dive deeper on this 
 description of my thoughts on this eulogy because I have some other things to do.
 
 Just to give you a glimpse of what his speech was about: first, he talks about desire - love is desire.
-Actually, it was related to previous eulogy (Agathon's) that I didn't mention. Agathon talks about desire and etc
+Actually, it was related to the previous eulogy (Agathon's) that I didn't mention. Agathon talks about desire and etc.
 
 Socrates seems to agree but he claims that desire is about something that someone lacks,
 and if someone loves something, this someone lacks this something.
@@ -112,7 +112,7 @@ And later he also talks about beauty - if love pursues beauty, and why love is d
 
 Then he starts to talk about a woman called Diotima who was the one that taught him about the ways of love,
 and he starts to transcribe the dialogue that he had with her. It seems the historical existence of this person
-is not something that everyone agrees, some people claims that Diotima was a persona created by Socrates.
+is not something that everyone agrees on - some people claim that Diotima was a persona created by Socrates.
 
 Anyway, Diotima says that love is not actually a god as all the others were trying to bring before - gods are all
 attractive and they do not desire anything because they already have, they are already perfect,
@@ -162,8 +162,8 @@ I may get back and read the Socrats eulogy again and dive on it further and writ
 
 What was this ending? hahahahah
 
-There was a street-drunk party happening outside of the house (Agathon house I guess) where the Symposium was happening, when a
-guy called Alcibiades (which was friends with the others) coming from the party, very drunk, asked if he could participate in the Symposium.
+There was a street-drunk party happening outside of the house (Agathon's house I guess) where the Symposium was happening, when a
+guy called Alcibiades (who was friends with the others), coming from the party very drunk, asked if he could participate in the Symposium.
 
 Until then, everything is quite normal. But things started to get very comic with him, and I'll tell you why:
 
