@@ -17,9 +17,7 @@ An important cultural context about the symposium and Athenian society at the ti
 these gatherings were exclusively for upper-class men, and homosexuality was not only acceptable
 but often encouraged among men of this social class. Most of the symposium's participants were
 involved in romantic relationships with other men - for instance, Socrates and Alcibiades,
-and Agathon and Pausanias (his lover). However, I should note that I'm not a philosopher
-or an expert in Athenian history, having just read this book,
-so the exact details of these relationships might need verification.
+and Agathon and Pausanias (his lover).
 
 I won't talk about all the eulogies but just about the ones that most attracted me.
 
