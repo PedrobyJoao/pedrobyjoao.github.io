@@ -21,6 +21,7 @@ of course I don't know what are thoughts.
 
 - [ ] self hosted web server
 - [ ] custom domain
+- [ ] backup of content on Arweave (or other _permanent_ DSN)
 - [ ] funny 404 (ape)
 - [ ] Psychedelic/Apes background alternative
 - [ ] allow comments (limmited to 'n') (that is for the far future btw)
