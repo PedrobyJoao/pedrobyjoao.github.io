@@ -13,12 +13,16 @@ I don't know.
 It's already 10p.m., I just want to finish the initial setup of my blog. So my initial answer for this is: I'm just an ape,
 of course I don't know what are thoughts.
 
-### TODOs
+### TODOs (important)
 
-- [ ] funny 404 (ape)
-- [ ] Psychedelic/Apes background alternative
+- [ ] backup of my blog posts
+
+### TODOs (secondary)
+
 - [ ] self hosted web server
 - [ ] custom domain
+- [ ] funny 404 (ape)
+- [ ] Psychedelic/Apes background alternative
 - [ ] allow comments (limmited to 'n') (that is for the far future btw)
 
 ### Theme
