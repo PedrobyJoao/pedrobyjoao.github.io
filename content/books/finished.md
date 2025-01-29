@@ -57,7 +57,3 @@ Not sure how to categorize so don't mind the category sections pls:
 - "Surely you're Joking, Mr Feynman", Richard P. Feynman
 - "Can't Hurt Me", David Goggins
 - "A Long Way Gone", Ishmael Beah
-
-## Notes
-
-I just realized I didn't read that many books actually. Most of them I read on the last two years.
