@@ -17,11 +17,12 @@ Not sure how to categorize so don't mind the category sections pls:
 - "Don Quixote", Miguel de Cervantes
 - "Before We Were Yours", Lisa Wingate
 
-### Fiction, make you think about life
+### Fiction, makes you think about life
 
 - "Demian", Hermann Hesse
 - "Knulp", Hermann Hesse
 - "Siddhartha", Hermann Hesse
+- "Steppenwolf", Hermann Hesse
 - "Notes from the Underground", Fyodor Dostoevsky
 - "The Metamorphosis", Franz Kafka
 
