@@ -1,5 +1,5 @@
 +++
-title = 'TO-READ books'
+title = 'To-read'
 date = 2024-12-18T18:16:57-03:00
 draft = false
 +++
@@ -30,7 +30,6 @@ draft = false
 
 ### Sci-fi:
 
-- Fahrenheit 451
 - Excession, Iain Banks (about the Culture's Minds)
 - Permutation City
 - Neuromancer

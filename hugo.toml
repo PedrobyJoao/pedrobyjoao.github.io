@@ -28,7 +28,8 @@ theme = 'typo'
   How do I feel while creating this blog? As Neal Cassady would answer: "YES YES YES!"
 
   Currently reading: 
-  - Thinking, Fast and Slow by Daniel Kahneman
+    - Snow Crash, Neal Stephenson
+    - Tiny habits, B. J. Fogg
   """
 
   # Collection to display on home
@@ -64,14 +65,6 @@ theme = 'typo'
 [[params.menu]]
     name = "Books"
     url = "/books"
-
-[[params.menu]]
-    name = "Poems"
-    url = "/poems"
-
-[[params.menu]]
-    name = "About"
-    url = "/about"
 
 # Syntax highlight on code blocks
 [markup.highlight]
