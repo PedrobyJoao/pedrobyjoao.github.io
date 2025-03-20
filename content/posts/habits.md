@@ -115,6 +115,8 @@ If you got curious, and I would recommend you anyway, read a bit about habit for
 
 There are some books, articles and videos about it.
 
+Just found this summary for Atomic Habits, it might be worth to take a small read: [Atomic Habits Summary](https://jamesclear.com/atomic-habits-summary)
+
 Books that I read and I recommend:
 
 - Tiny Habits, BJ Fogg
