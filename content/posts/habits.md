@@ -1,7 +1,7 @@
 +++
 title = 'Wellbeing, Habits and Guilt'
 date = 2025-03-20T15:28:21-03:00
-draft = true
+draft = false
 +++
 
 So it has been a long time since I wrote a post.
