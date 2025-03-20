@@ -45,9 +45,9 @@ theme = 'typo'
   breadcrumbs = true
 
 # Social icons
-[[params.social]]
-  name = "linkedin"
-  url = "https://pedrobyjoao.github.io/about"
+# [[params.social]]
+#   name = "linkedin"
+#   url = "https://pedrobyjoao.github.io/about"
 
 [[params.social]]
   name = "github"
