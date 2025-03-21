@@ -21,6 +21,11 @@ draft = false
 - Being and Time, Kierkegaard
 - Man's search for meaning
 
+### Others:
+
+- The Unbearable Lightness of Being, Milan Kundera
+- The Dharma Bums, Jack Kerouac
+
 ### Biology, Psychology, Behavioral Science
 
 - Digital Minimalism
