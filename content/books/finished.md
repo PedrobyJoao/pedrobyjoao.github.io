@@ -12,6 +12,7 @@ Not sure how to categorize so don't mind the category sections pls:
 - Brave New World, Aldous Huxley
 - The Island, Aldous Huxley
 - Anathem, Neal Stephenson
+- Snow Crash, Neal Stephenson
 - Espadachim de Carvao (trilogia), Affonso Solano
 - The Player of Games, Iain M. Banks
 - Don Quixote, Miguel de Cervantes
