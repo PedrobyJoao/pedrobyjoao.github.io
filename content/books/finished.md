@@ -46,13 +46,14 @@ Not sure how to categorize so don't mind the category sections pls:
 - Grokking Algorithms, Aditya Bhargava
 - The Elements of Computing Systems, Noam Nisan and Shimon Schocken
 
-### Self-Help (is this the correct way of phrasing?)
+### How to survive in this modern world as an ape
 
 - Deep Work, Cal Newport
 - Power of Habits, Charles Duhigg
 - The Subtle Art of Not Giving a Fuck, Mark Manson
 - The Power of Now, Eckhart Tolle
 - Atomic Habits, James Clear
+- Tiny Habits, B.J. Fogg
 
 ### Non-fiction
 
