@@ -23,8 +23,8 @@ draft = false
 
 ### Others:
 
-- The Unbearable Lightness of Being, Milan Kundera
 - The Dharma Bums, Jack Kerouac
+- The old man and the sea, Ernest Hemingway
 
 ### Biology, Psychology, Behavioral Science
 
@@ -41,10 +41,14 @@ draft = false
 - Eternity (Asimov?)
 - Accelerando
 - The Diamond Age
-- Snow Crash
 - Permutation City
 - Blindsight
 
 ### Classics
 
 - The Odyssey
+
+### BR/PT Literature
+
+- Capitães da Areia
+- O alquimista

@@ -27,6 +27,7 @@ Not sure how to categorize so don't mind the category sections pls:
 - Steppenwolf, Hermann Hesse
 - Notes from the Underground, Fyodor Dostoevsky
 - The Metamorphosis, Franz Kafka
+- The Unbearable Lightness of Being, Milan Kundera
 
 ### Philosophy and similar
 
