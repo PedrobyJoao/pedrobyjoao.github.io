@@ -1,18 +1,16 @@
 +++
-title = 'On love (before readings)'
+title = 'On love: before readings'
 date = 2024-11-29T12:01:27-03:00
 draft = true
 +++
 
-## Why I Decided to Make This Post
-
 I would really like to do this post on love before reading more books about love.
-Because that's what I'm doing now - I already read The Symposium, I will read Phaedrus from Plato,
-and I also may read Kierkegaard on the works of love, and some other books.
 
-So I would like to do my post first, before being influenced by the thoughts of other apes.
+> Until now, I just read Phaedrus by Plato.
 
-And that's why I'm doing this now.
+So I would like to write about it first, before being influenced by the thoughts of other apes.
+
+Therefore, the following is not based on any readings but just me rambling my thoughts.
 
 ## What is Love?
 
@@ -21,54 +19,43 @@ of human mind and society.
 
 I will probably not completely answer this here. Actually, I do not think anyone in the world, neither an AGI,
 can really answer this because the thing about humans is that each one of us is interpreting reality
-as we think it is the correct way.
+in a different way. There is no correct answer.
 
 Love is just a word - as we have this thing called language, words are not really totally effective to completely
-express our thoughts. It is not possible through words. Words are very very abstracted
-from what we individually are perceiving and interpreting from reality.
+express our thoughts, our interpretation upon the world.
+
+It is just not possible through words.
+
+Words are very very abstracted from what we individually are perceiving and interpreting from reality.
 
 So when we are talking about love, we are of course just talking
-about a high level abstraction of this word, of the abstracted concept that this word represents.
-
-> On my interpretation about Reality: someday I will talk about what I think about reality and what I think about our
-> perception of reality, because this is kind of related to what I just said about love being just an abstraction
-> and that everyone interprets reality in a different way... anyway, I won't go further here.
-
-Just giving a glimpse on the topic of reality..
-
-I do not think that we humans are really perceiving reality directly, the pure reality - we are not.
-We are perceiving an interpretation of reality interpreted by our brain, that is what is happening.
-
-Ok, but coming back to love (I will do a post about reality later). By the way, I am not a physicist or a
-philosopher, I am just an ape trying to understand reality with the things that I superficially know.
-
-Now really coming back to love...
+about a high level abstraction of an emotion represented by this word.
 
 I cannot define love for everyone, I cannot define an absolute meaning of love.
 
-What I will try to do here is to define love giving my interpretation on how I perceive and interpret reality.
+Neither can you.
+
+What I will try to do here is to define love giving my interpretation on how I perceive and interpret the universe.
 
 ## Stepping back: Ways of Love
 
-But it is really hard, as I said, to describe, to try to explain and make an post on a word. The subjectivity
-of human mind is already very complex, even more for a word, a word that represents an emotion, or something
+But it is really hard, as I said, to fully understand an emotion, product of our brains. The subjectivity
+of the human mind is already very complex, even more for a word, a word that represents an emotion, or something
 similar.
 
 So I think it is easier first to define what is not love for me, or at least not fully love, and that's what I will do now.
 
 Also, I'll talk about things that may or not be considered love.
 
-Some things might be related to love, but they are the full meaning of love. They do not represent the whole concept
+Some things might be related to love, but they are not the full meaning of love. They do not represent the whole concept
 of this emotion.
 
-For the next subtopics, I'll be talking about the **ideal** concepts of each type of relationship.
+> For the next subtopics, I'll be talking about the **ideal** concepts of each type of relationship.
 
 ### Marriage: is not just about love
 
 > Note on what happens in practice: married people might or not be in love with each other.
 > They usually think they're, but sometimes they're not, and sometimes some of them are even aware of that.
->
-> Anyway, I'm talking about **my concept of an ideal marriage**
 
 First, marriage is not only about love, is not love by itself. It can contain love, but not necessarily.
 
@@ -87,8 +74,6 @@ Most usually, this will involve love, but not necessarily.
 
 Naturally, when two humans have a strong and successful partnership where there is respect, care and they get along well,
 love will probably be present too.
-
-And again, I'm talking about my idealization on what marriage should be made of.
 
 And when I talk about marriage, of course, I can also extend to **romantic relationships** that are not
 necessarily marriage.
@@ -141,10 +126,10 @@ But I think my post will be focused on the love between people.
 
 ## Is romantic love superior than love for other people?
 
-Most of people treat as it was.
+Most of people treat as it is.
 
-I'm not sure. For a while, I was sure that it was not the case. Maybe I don't have this certainty anymore because I was
-primed by the thoughts of everyone around me.
+But I'm not sure. For a while, I was sure that it was not the case. Maybe I don't have this certainty anymore because I'm daily
+being primed by the culture I'm inserted in.
 
 Maybe that is just cultural, seeing romantic love as superior. Culture which may be a consequence of our survival instincts
 of procration, and the
@@ -155,13 +140,11 @@ TODO: what does it differ from love for other people?
 
 TODO
 
-## Is Love (for/from people) a MUST to live a good life?
-
-TODO
-
 ## How do you know you're in love to someone?
 
-TODO
+Ha, I won't even try to answer this question.
+
+I have no idea.
 
 ## Love for self
 
