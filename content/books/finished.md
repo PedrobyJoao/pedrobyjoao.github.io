@@ -1,6 +1,6 @@
 +++
 title = 'Finished'
-date = 2024-10-14T22:35:47-03:00
+lastmod = 2024-10-14T22:35:47-03:00
 draft = false
 weight = 1
 +++
