@@ -30,7 +30,6 @@ draft = false
 
 - Digital Minimalism
 - Thinking, Fast and Slow
-- Tiny habits
 - The Righteous Mind
 
 ### Sci-fi:
