@@ -10,7 +10,7 @@ Not sure how to categorize so don't mind the category sections pls:
 ### Fictions, all kinds
 
 - Brave New World, Aldous Huxley
-- The Island, Aldous Huxley
+- Island, Aldous Huxley
 - Anathem, Neal Stephenson
 - Snow Crash, Neal Stephenson
 - Espadachim de Carvao (trilogia), Affonso Solano
