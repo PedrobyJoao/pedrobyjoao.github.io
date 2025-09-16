@@ -7,7 +7,7 @@ weight = 1
 
 Not sure how to categorize so don't mind the category sections pls:
 
-### Fictions, all kinds
+### Novels
 
 - Brave New World, Aldous Huxley
 - Island, Aldous Huxley
@@ -18,16 +18,23 @@ Not sure how to categorize so don't mind the category sections pls:
 - Don Quixote, Miguel de Cervantes
 - Before We Were Yours, Lisa Wingate
 - Fahrenheit 451, Ray Bradbury
+- Flowers for Algernon, Daniel Keyes
 
-### Fiction, makes you think about life
+### Novels: make you think about life
 
 - Demian, Hermann Hesse
 - Knulp, Hermann Hesse
 - Siddhartha, Hermann Hesse
 - Steppenwolf, Hermann Hesse
-- Notes from the Underground, Fyodor Dostoevsky
 - The Metamorphosis, Franz Kafka
+- Notes from the Underground, Fyodor Dostoevsky
 - The Unbearable Lightness of Being, Milan Kundera
+- Paixao Segundo G.H, Clarice Lispector
+
+### Novels and short stories
+
+- White Nights, Fyodor Dostoevsky
+- Faint Heart, Fyodor Dostoevsky
 
 ### Philosophy and similar
 
@@ -35,10 +42,23 @@ Not sure how to categorize so don't mind the category sections pls:
 - A simples beleza do inesperado, Marcelo Gleiser
 - The Stranger, Albert Camus
 - The myth of Sisyphus, Albert Camus
+- The Power of Now, Eckhart Tolle
 
-### Informative
+### How to survive in this modern world as an ape
 
 - How to Change Your Mind, Michael Pollan
+- Deep Work, Cal Newport
+- The Subtle Art of Not Giving a Fuck, Mark Manson
+- Power of Habits, Charles Duhigg
+- Atomic Habits, James Clear
+- Tiny Habits, B.J. Fogg
+
+### Biography
+
+- On the Road, Jack Kerouac
+- Surely you're Joking, Mr Feynman, Richard P. Feynman
+- Can't Hurt Me, David Goggins
+- A Long Way Gone, Ishmael Beah
 
 ### Computer Science
 
@@ -46,19 +66,3 @@ Not sure how to categorize so don't mind the category sections pls:
 - Clean Code, Robert C. Martin
 - Grokking Algorithms, Aditya Bhargava
 - The Elements of Computing Systems, Noam Nisan and Shimon Schocken
-
-### How to survive in this modern world as an ape
-
-- Deep Work, Cal Newport
-- Power of Habits, Charles Duhigg
-- The Subtle Art of Not Giving a Fuck, Mark Manson
-- The Power of Now, Eckhart Tolle
-- Atomic Habits, James Clear
-- Tiny Habits, B.J. Fogg
-
-### Non-fiction
-
-- On the Road, Jack Kerouac
-- Surely you're Joking, Mr Feynman, Richard P. Feynman
-- Can't Hurt Me, David Goggins
-- A Long Way Gone, Ishmael Beah
