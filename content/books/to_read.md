@@ -1,7 +1,7 @@
 +++
-title = 'To-read'
-lastmod = 2024-12-18T18:16:57-03:00
+title = 'To Read'
 draft = false
+weight = 1
 +++
 
 ### Fictions on human psycology and society
