@@ -1,5 +1,5 @@
 +++
-title = '(Review) Dostoevsky short stories'
+title = 'Dostoevsky short stories'
 date = 2025-09-15T23:36:56-03:00
 draft = false
 +++
