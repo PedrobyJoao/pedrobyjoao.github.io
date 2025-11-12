@@ -12,12 +12,13 @@ Not sure how to categorize so don't mind the category sections pls:
 - Island, Aldous Huxley
 - Anathem, Neal Stephenson
 - Snow Crash, Neal Stephenson
+- Flowers for Algernon, Daniel Keyes
 - Espadachim de Carvao (trilogia), Affonso Solano
+- Cem Anos de Solidao, Gabriel Garcia Marquez
 - The Player of Games, Iain M. Banks
 - Don Quixote, Miguel de Cervantes
 - Before We Were Yours, Lisa Wingate
 - Fahrenheit 451, Ray Bradbury
-- Flowers for Algernon, Daniel Keyes
 
 ### Novels: make you think about life
 
@@ -52,8 +53,9 @@ Not sure how to categorize so don't mind the category sections pls:
 - Atomic Habits, James Clear
 - Tiny Habits, B.J. Fogg
 
-### Biography
+### Biography, History...
 
+- Born to Run, Christopher McDougall
 - On the Road, Jack Kerouac
 - Surely you're Joking, Mr Feynman, Richard P. Feynman
 - Can't Hurt Me, David Goggins

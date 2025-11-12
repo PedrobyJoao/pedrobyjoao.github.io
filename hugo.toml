@@ -18,17 +18,37 @@ theme = 'typo'
   # Intro on main page, content is markdown
   homeIntroTitle = "Hi, conscious being"
   homeIntroContent = """
-  What am I? What do I live for? Am I still here for love? For pleasure? For fun?
+  An ape trying to make sense.
+  Feels peace, joy and love
+  but also sorrow, anger and solitude.
 
-  Bah.. who knows. This human subjectivity is too complex for me. I'm just an ape
-  that sometimes tries to understand reality without success.
+  Tries to understand,
+  gets lost.
+  Feel sad about
+  when once felt peace.
 
-  In this blog, I'll express my thoughts about reality, computer science and art.
+  That is the music of life:
+  it's full of everything.
+  Maybe not made to be understood.
 
-  How do I feel while creating this blog? As Neal Cassady would answer: "YES YES YES!"
+  That is me:
+  People, Dance, Software, Arts,
+  Music, Sports, Traveling, People,
+  People and a bunch of other things.
+
+  Lies.
+  An ape can not be that simple to define.
+  Or are we?
+
+  Searching.
+  I'm searching.
+  Although, maybe there is nothing to be found.
+  And everything that I need is already here.
+
+  -----------------------------
 
   Currently reading: 
-- One hundred years of Solitude, Gabriel García Márquez 
+- Dharma Bums, Jack Kerouac 
   """
 
   # Collection to display on home
