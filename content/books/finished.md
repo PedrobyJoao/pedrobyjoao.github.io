@@ -4,8 +4,6 @@ draft = false
 weight = 1
 +++
 
-Not sure how to categorize so don't mind the category sections pls:
-
 ### Novels
 
 - Brave New World, Aldous Huxley
@@ -57,6 +55,7 @@ Not sure how to categorize so don't mind the category sections pls:
 
 - Born to Run, Christopher McDougall
 - On the Road, Jack Kerouac
+- Dharma Bums, Jack Kerouac
 - Surely you're Joking, Mr Feynman, Richard P. Feynman
 - Can't Hurt Me, David Goggins
 - A Long Way Gone, Ishmael Beah
