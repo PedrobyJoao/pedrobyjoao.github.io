@@ -33,6 +33,7 @@ weight = 1
 
 - White Nights, Fyodor Dostoevsky
 - Faint Heart, Fyodor Dostoevsky
+- A Christmas Tree and a Wedding, Fyodor Dostoevsky
 
 ### Philosophy and similar
 
@@ -41,6 +42,7 @@ weight = 1
 - The Stranger, Albert Camus
 - The myth of Sisyphus, Albert Camus
 - The Power of Now, Eckhart Tolle
+- On the Shortness of Life, Seneca
 
 ### How to survive in this modern world as an ape
 

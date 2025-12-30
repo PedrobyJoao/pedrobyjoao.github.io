@@ -22,7 +22,7 @@ Recommended for a fast read riding on a bus when you don't have anything else to
 
 ## Faint Heart
 
-That one is funny and overall interesting.
+This one is funny and overall interesting.
 
 Two best friends living together, one of them has some emotional problems and he just gets CRAZY for getting engaged with a woman.
 Literally, he gets totally lost on his own thoughts and emotions.
@@ -30,3 +30,9 @@ Literally, he gets totally lost on his own thoughts and emotions.
 Recommended.
 
 > Read context: somewhere in September 2025, in a family trip
+
+## A Christmas Tree and a Wedding
+
+Good, not bad, not great. A simple story.
+
+> Read context: near 2025 Christmas (just a coincidence) at home
