@@ -17,6 +17,8 @@ weight = 1
 - Don Quixote, Miguel de Cervantes
 - Before We Were Yours, Lisa Wingate
 - Fahrenheit 451, Ray Bradbury
+- The Travelling Cat Chronicles, Hiro Arikawa
+- They both die at the end, Adam Silvera
 
 ### Novels: make you think about life
 
@@ -29,7 +31,7 @@ weight = 1
 - The Unbearable Lightness of Being, Milan Kundera
 - Paixao Segundo G.H, Clarice Lispector
 
-### Novels and short stories
+### Short stories
 
 - White Nights, Fyodor Dostoevsky
 - Faint Heart, Fyodor Dostoevsky

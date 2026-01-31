@@ -12,7 +12,6 @@ weight = 1
 ### About life and reality
 
 - The Denial of Death
-- On the shortness of life
 - Phaedrus
 - Other Plato books
 - Works of love, Kierkegaard
@@ -23,7 +22,6 @@ weight = 1
 
 ### Others:
 
-- The Dharma Bums, Jack Kerouac
 - The old man and the sea, Ernest Hemingway
 
 ### Biology, Psychology, Behavioral Science
