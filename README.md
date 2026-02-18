@@ -1,30 +1,15 @@
-https://pedrobyjoao.github.io/
+https://apemortalis.com/
 
-### JP, the ape
+I'm just a simple ape.
 
-My blogs with my random thoughts.
+### TODOs
 
-> What is random?
-
-I don't know.
-
-> What are thoughts?
-
-It's already 10p.m., I just want to finish the initial setup of my blog. So my initial answer for this is: I'm just an ape,
-of course I don't know what are thoughts.
-
-### TODOs (important)
-
-- [ ] backup of my blog posts
-
-### TODOs (secondary)
-
+- [ ] backup of my blog posts (centralized)
 - [ ] self hosted web server
-- [ ] custom domain
 - [ ] backup of content on Arweave (or other _permanent_ DSN)
 - [ ] funny 404 (ape)
 - [ ] Psychedelic/Apes background alternative
-- [ ] allow comments (limmited to 'n') (that is for the far future btw)
+- [ ] allow comments (limmited to `k`)
 
 ### Theme
 
